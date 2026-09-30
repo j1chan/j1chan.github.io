@@ -63,14 +63,12 @@ footer {
 
 
 @media (max-width: 768px) {
-
     .QM-Image,
-    .ATP-Image
+    .ATP-Image,
     .Food-Image,
     .Bullying-Image,
     .Data-Image{
         width: 80%;
         height: auto;
     }
-
 }
